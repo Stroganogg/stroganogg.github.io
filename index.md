@@ -32,4 +32,4 @@ In my senior year of high school, I had the opportunity to take a yearlong proje
 
 ### International Space Settlement Design Competition (ISSDC)
 
-ISSDC was a competitive club that I was involved with throughout my senior year. We started in mid-October and had until late April to design a space station based on a 5-page-long Request for Proposal (RFP). 
+ISSDC was a competitive club that I was involved with throughout my senior year. We started in mid-October and had until late April to design a space station based on a 5-page-long Request for Proposal (RFP). We worked in a team that dwindled from about 30 people at the beginning to about 4 people and myself at the end. The contest required us to design everything from power management systems to house designs and park layouts--and they all had to be consistent within the teams. The organization and communication was much more difficult than the designing itself, and it was great experience in project management and teamwork.
