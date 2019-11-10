@@ -1,20 +1,35 @@
 ---
 layout: page
 title: About
-permalink: /
+permalink: /about
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/img_20191013_173802.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+# About
+
+My name is Logan Lemieux. I am an Electrical Engineering student at Western Washington University in Bellingham, Washington, USA. I have experience in basic web development, python, and am willing to learn. I am fascinated by astronomy, mathematics, history, technology, and music. 
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Website <br />
+[stroganogg.github.io] <br />
+stroganogg.github.io<br />
+Email: [loganlemieuxa@gmail.com]
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[Yavin]: https://stroganogg.github.io
+[loganlemieuxa@gmail.com]: mailto:loganlemieuxa@gmail.com
+
+## Experience
+
+I have worked on multiple long-term projects, all of which have been conducted with teams. 
+
+### Flight by Design: Project Neuro
+
+In my senior year of high school, I had the opportunity to take a yearlong project class called Flight by Design, where we were told to create </i>something</i>. Our group elected to create a neural network from scratch--without any prior programming experience. Over the course of the year, we learned how to code in python and simultaneously learned how neural networks worked and learn--but more importantly, we learned how to use git, how to keep good documentation, how to use comments efficiently, how to review the code of others, and how to effectively split up work and work in a group. You can see the full project folder here<br />[neuralnetwork]<br />.
+[neuralnetwork]: https://github.com/KTaylor8/KTaylor8.github.io
+
+### International Space Settlement Design Competition (ISSDC)
+
+ISSDC was a competitive club that I was involved with throughout my senior year. We started in mid-October and had until late April to design a space station based on a 5-page-long Request for Proposal (RFP). 
