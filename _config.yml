@@ -9,9 +9,9 @@ url: "http://stroganogg.github.io"     # the base hostname & protocol for your s
 baseurl: "/summary"                   # the subpath of your site, e.g. /blog
 
 author: stroganogg
-    name: 'Logan Lemieux'
-    facebook:
-    scholar:
+name: 'Logan Lemieux'
+facebook:
+scholar:
 
 # Build settings
 markdown: kramdown

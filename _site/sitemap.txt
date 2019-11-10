@@ -1,0 +1,12 @@
+
+http://stroganogg.github.io/summary/blog/
+http://stroganogg.github.io/summary/cv/
+http://stroganogg.github.io/summary/feed.xml
+http://stroganogg.github.io/summary/
+http://stroganogg.github.io/summary/css/main.css
+http://stroganogg.github.io/summary/misc/
+http://stroganogg.github.io/summary/research/
+http://stroganogg.github.io/summary/sitemap.txt
+http://stroganogg.github.io/summary/css/main.css.map
+
+http://stroganogg.github.io/summary/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
