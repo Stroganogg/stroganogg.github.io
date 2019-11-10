@@ -1,4 +1,4 @@
-title: Logan Lemieux
+title: 'Logan Lemieux'
 description: Summary
 sourcecode: "https://github.com/Stroganogg/stroganogg.github.io"
 
@@ -9,7 +9,7 @@ url: "http://stroganogg.github.io"     # the base hostname & protocol for your s
 baseurl: "/summary"                   # the subpath of your site, e.g. /blog
 
 author: stroganogg
-    name: Logan Lemieux
+    name: 'Logan Lemieux'
     facebook:
     scholar:
 
