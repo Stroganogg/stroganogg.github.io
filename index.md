@@ -23,5 +23,7 @@ ISSDC was a competitive club that I was involved with throughout my senior year.
 
 ## Contact
 
-Website: [stroganogg.github.io](https://stroganogg.github.io)\
+Website: [stroganogg.github.io](https://stroganogg.github.io)
+
+
 Email: [loganlemieuxa@gmail.com](mailto:loganlemieuxa@gmail.com)
