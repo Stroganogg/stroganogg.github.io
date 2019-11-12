@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interests
-permalink: /misc/
+permalink: /default/misc
 ---
 
 ## Technical Interests
