@@ -1,8 +1,8 @@
 - title: "Resume"
-  href: "/resume/"
+  href: "default/resume/"
 
 - title: "Misc"
-  href: "/misc/"
+  href: "default/misc/"
 
 #- title: "Submenu"
 #  subcategories:
@@ -12,4 +12,4 @@
 #      subhref: "/misc/item-2/"
 
 - title: "Blog"
-  href: "/blog/"
+  href: "default/blog/"
