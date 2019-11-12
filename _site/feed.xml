@@ -3,10 +3,10 @@
   <channel>
     <title>Logan Lemieux</title>
     <description>Summary</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Nov 2019 22:45:47 -0800</pubDate>
-    <lastBuildDate>Mon, 11 Nov 2019 22:45:47 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Nov 2019 14:29:41 -0800</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2019 14:29:41 -0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;It seems odd to post to a blog in 2019. It’s like sending your voice out into a crowded street, using a pager from 1999. It doesn’t really work. Yet here I am, putting text into a jekyll theme to make that pager heard.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Nov 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//blog/2019/11/11/using-a-pager-in-2019</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/2019/11/11/using-a-pager-in-2019</guid>
+        <link>http://localhost:4000/blog/2019/11/11/using-a-pager-in-2019</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/11/11/using-a-pager-in-2019</guid>
         
         
         <category>tech</category>

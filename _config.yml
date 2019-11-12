@@ -6,7 +6,7 @@ permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "http://stroganogg.github.io"     # the base hostname & protocol for your site
-baseurl: "/"                   # the subpath of your site, e.g. /blog
+baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author: stroganogg
 name: 'Logan Lemieux'
@@ -23,7 +23,7 @@ highlighter: rouge
 #
 analytics:
     provider:
-    statcounter:
+    staxdg-open /usr/share/applications/p3x-onenote.desktoptcounter:
         sc_project  :
         sc_security :
         sc_invisible: 1

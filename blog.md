@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /default/blog
+permalink: /blog
 ---
 
 The art of the blog: party like it's 2005.

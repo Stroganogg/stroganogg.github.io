@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logan Lemieux
-permalink: /default/
+permalink: /
 ---
 {% include image.html url="images/trees2.jpg" caption="" height ="500px" width="500px" align="right" %}
 ## About
