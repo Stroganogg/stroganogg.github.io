@@ -14,7 +14,7 @@ I have worked on multiple long-term projects, all of which have been conducted w
 
 ### Flight by Design Project Neuro
 
-In my senior year of high school, I had the opportunity to take a yearlong project class called Flight by Design, where we were told to plan and create our own project. Our group elected to create a neural network from scratch in python --without any prior programming experience. Over the course of the year, we learned how to code in python and simultaneously learned how neural networks worked and learn--but more importantly, we learned how to use git, how to keep good documentation, how to use comments efficiently, how to review the code of others, and how to effectively split up work and work in a group. You can see the full project folder [here](https://github.com/KTaylor8/KTaylor8.github.io).
+In my senior year of high school, I had the opportunity to take a yearlong project class called Flight by Design, where we were told to plan and create our own project. Our group elected to create a neural network from scratch in python --without any prior programming experience. Over the course of the year, we learned how to code in python and simultaneously learned how neural networks worked and learn--but more importantly, we learned how to use git, how to keep good documentation, how to use comments efficiently, how to review the code of others, and how to effectively split up work and work in a group. You can see the full project folder [here](https://github.com/KTaylor8/NeuralNetwork).
 
 ### International Space Settlement Design Competition (ISSDC)
 
