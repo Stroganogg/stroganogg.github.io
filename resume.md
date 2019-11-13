@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume
+permalink: /resume/
 ---
 
 Download [PDF version](https://drive.google.com/open?id=11Lay7Cu2ZmvYOc6f8okuLLdlvACc2XSi).
