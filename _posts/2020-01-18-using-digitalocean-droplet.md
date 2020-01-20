@@ -1,10 +1,11 @@
- ---
+---
 layout: post
 title: "Using DigitalOcean Droplet to Host a Website"
 description: "Putting something small in the void"
 categories: ["tech", "coding", "websites"]
 location: "Bellingham"
 ---
+
 The past few days have been quite… interesting.
 
 I decided to move past github and look to actual website hosting for our university club--the Aviation Club. As it turns out, website hosting is in fact complicated. It makes perfect sense to me now why websites like Squarespace, etc exist--a lot of people really don’t want to mess with all of it. There’s a lot of technobabble, a lot of ways to go wrong, and, to be honest, a lot of options. Choice paralysis is a big problem for me, so having to choose between dozens of different domain registrars was frustrating. However, I eventually settled on ([name.com]https://name.com/), purchased ([wwuaviation.com]https://wwuaviation.com/), and was on my way.
